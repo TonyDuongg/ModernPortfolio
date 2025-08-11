@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonydev.example.com/sitemap.xml
